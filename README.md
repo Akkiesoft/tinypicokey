@@ -20,6 +20,12 @@ Kailhロープロファイルスイッチ（PG1350）用ボードです
 
 ![board-lp](tinypicokey-lp-board-rev1.png)
 
+### TinyPicoTrio
+
+TinyPicoKeyを3つ搭載できるボードです。TinyPicoKeyは上下逆に取り付けても動作します。左からGP4、GP5、GP6に接続されていて、右のキーはTinyPicoKey単体で使用する場合と共用です。
+
+![board-trio](tinypicotrio-board-rev1.png)
+
 ## 組み立て例
 
 ピンヘッダ/ピンソケットは以下のパーツがおすすめです。
